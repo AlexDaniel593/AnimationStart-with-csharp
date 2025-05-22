@@ -1,0 +1,12 @@
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\TallerEstrella\TallerEstrella\obj\Debug\TallerEstrella.csproj.AssemblyReference.cache
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\TallerEstrella\TallerEstrella\obj\Debug\TallerEstrella.FrmEstrella.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\TallerEstrella\TallerEstrella\obj\Debug\TallerEstrella.Properties.Resources.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\TallerEstrella\TallerEstrella\obj\Debug\TallerEstrella.csproj.GenerateResource.cache
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\TallerEstrella\TallerEstrella\obj\Debug\TallerEstrella.csproj.CoreCompileInputs.cache
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\TallerEstrella\TallerEstrella\bin\Debug\TallerEstrella.exe.config
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\TallerEstrella\TallerEstrella\bin\Debug\TallerEstrella.exe
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\TallerEstrella\TallerEstrella\bin\Debug\TallerEstrella.pdb
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\TallerEstrella\TallerEstrella\obj\Debug\TallerEstrella.exe
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\TallerEstrella\TallerEstrella\obj\Debug\TallerEstrella.pdb
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\TallerEstrella\TallerEstrella\obj\Debug\TallerEstrella.FrmIndex.resources
+C:\Users\dalex\OneDrive\Documentos\ESPE\Grafica\source\repos\TallerEstrella\TallerEstrella\obj\Debug\TallerEstrella.FrmEstrellaMultiple.resources
